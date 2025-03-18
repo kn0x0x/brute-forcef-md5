@@ -12,7 +12,7 @@ This is a simple Python solution to brute-force an MD5 hash for CTF challenges u
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kn0x0x/brute-forcef-md5.git
+    git clone https://github.com/kn0x0x/brute-force-md5.git
     ```
 
 2. Install the required dependencies:
