@@ -35,6 +35,4 @@ The script will brute-force the MD5 hash of the flag by sending asynchronous req
 - This script uses the `httpx` library to send HTTP GET requests asynchronously to improve speed.
 - It brute-forces each character of the MD5 hash and then appends the `flag.txt` path to retrieve the flag once the hash is fully discovered.
   
-## License
 
-MIT License
